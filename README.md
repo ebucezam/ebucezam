@@ -1,37 +1,29 @@
-# **Hello friends!, I am Rogelyn** 👋
+# **Hello friends! I am Rogelyn** 👋 
 
-<!--
-**ebucezam/ebucezam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![BeavisComputerGIF](https://github.com/ebucezam/ebucezam/assets/160061070/dc652fc3-3198-456b-816f-bcfd0d8b76a1)
 
-<picture>
-    <source media="(min-width:650px)"
-srcset="img_yellow_flowers.jpg">
-    <source media ="(min-width:465px)"
-srcset="img_red_flower.jpg">
-    <img src="img_pink_flowers.jpg"
-alt="Flowers" style="width:auto;">
-</picture>
 
-# ABOUT ME
+### ABOUT ME
 - Enjoy to do programming and sharing knowledge
 - Love to write code and learning new features
-
+  
 ### 🌱 I’m currently learning with help:
-| Rank |                  THING-TO-RANK                      |
+| Rank |      :book::open_book:    Learning                  |
 |-----:|-----------------------------------------------------|
 |     1| PYTHON as Data Scientist in Hyperion Skills bootcamp|
 |     2| docs.github.com                                     |
 |     3| visual studio code                                  |
 
-
 ### How to reach me
-- _rtjahcube@yahoo.com_
+:email: - _rtjahcube@yahoo.com_
 - https://www.linkin.com/in/rogelyn-tabbada-517a48293
-
-### My experiences
-CV link
 
 ### **Fun fact**
 ---
 > _For sure I am fun to be with._
+<!--
+**ebucezam/ebucezam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
